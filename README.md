@@ -64,12 +64,6 @@ npm run dev
 
 🌐 Visit: http://localhost:5173/
 
-## 👨‍💻 Author
-
-**Keshav Gowda S P**  
-📧 [keshavgowdasp@gmail.com](mailto:keshavgowdasp@gmail.com)  
-🌐 [🌍 My Portfolio](https://keshavgowdasp.github.io/Portfolio/)
-
 
 ## 📸 Screenshots
 
@@ -84,6 +78,18 @@ npm run dev
 ### 🔧Product search by Name
 ![Product search by Name](./screenshots/Product search by name.png)
 
+
+## 🎥 Demo Video
+
+▶️ [Watch](https://drive.google.com/file/d/1lagWCB_f5zKJcs99Nxt4ZX3IAfF5MRue/view?usp=drive_link)
+
+
+
+## 👨‍💻 Author
+
+**Keshav Gowda S P**  
+📧 [keshavgowdasp@gmail.com](mailto:keshavgowdasp@gmail.com)  
+🌐 [🌍 My Portfolio](https://keshavgowdasp.github.io/Portfolio/)
 
 
 
