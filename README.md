@@ -1,6 +1,12 @@
 # 🛒 Full Stack E-commerce Application (Spring Boot + React)
 
-This is a complete **E-commerce web application** built using **Spring Boot (Java)** for the backend and **React.js** for the frontend. It allows users to browse products, manage a shopping cart, and checkout, while admins can manage product listings and inventory with image uploads.
+This is a complete **E-commerce Web Application** built with **Spring Boot** for the backend and **React.js** for the frontend.  
+Users can browse and purchase products, while admins can manage inventory, product details, and images.
+
+[![Java](https://img.shields.io/badge/Backend-SpringBoot-%23007396?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
+[![React](https://img.shields.io/badge/Frontend-React-%2361DAFB?style=flat&logo=react)](https://reactjs.org)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-%2300f?style=flat&logo=mysql)](https://www.mysql.com)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -8,7 +14,7 @@ This is a complete **E-commerce web application** built using **Spring Boot (Jav
 
 Ecommerce/
 ├── backend/ # Spring Boot API (Java + MySQL)
-├── frontend/ # React.js client (Bootstrap + Axios)
+├── frontend/ # React.js Client (Bootstrap + Axios)
 └── README.md
 
 
@@ -16,98 +22,53 @@ Ecommerce/
 
 ## 🚀 Features
 
-### 👤 User:
-- Browse and filter products by category
-- Add/remove items from cart
-- Adjust quantities in cart
-- Real-time stock check and dynamic pricing
+### 👤 User
+- 🛍️ Browse and filter products by category  
+- ➕ Add/remove items from the cart  
+- 🔄 Adjust product quantities in the cart  
+- 📦 Real-time stock updates and dynamic pricing
 
-### 🛠️ Admin:
-- Add/edit/delete products
-- Upload product images
-- Manage stock quantity (auto-decreases on checkout)
-
----
-
-## 🧰 Tech Stack
-
-- **Frontend:** React, Axios, Bootstrap, CSS
-- **Backend:** Spring Boot, Java, Spring MVC, JPA
-- **Database:** MySQL
-- **Build Tools:** Maven
-
----
-
-## 🔧 Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Keshavgowdasp/Ecommerce.git
-cd Ecommerce
-
-
----
-
-## 🚀 Features
-
-### 👤 User:
-- Browse and filter products by category
-- Add/remove items from cart
-- Adjust quantities in cart
-- Real-time stock check and dynamic pricing
-
-### 🛠️ Admin:
-- Add/edit/delete products
-- Upload product images
-- Manage stock quantity (auto-decreases on checkout)
+### 🛠️ Admin
+- ➕ Add / ✏️ Edit / ❌ Delete products  
+- 🖼️ Upload product images  
+- 📉 Automatically update stock levels after checkout
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Frontend:** React, Axios, Bootstrap, CSS
-- **Backend:** Spring Boot, Java, Spring MVC, JPA
-- **Database:** MySQL
-- **Build Tools:** Maven
+- **Frontend:** React, Axios, Bootstrap, CSS  
+- **Backend:** Spring Boot, Java, Spring MVC, JPA  
+- **Database:** MySQL  
+- **Build Tools:** Maven  
 
 ---
 
 ## 🔧 Setup Instructions
 
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/Keshavgowdasp/Ecommerce.git
 cd Ecommerce
 
-2. Backend (Spring Boot)
+2️⃣ Backend Setup (Spring Boot)
 cd backend
 ./mvnw spring-boot:run
-✅ Ensure MySQL is running and DB config is set in application.properties.
 
-
-3. Frontend (React)
+3️⃣ Frontend Setup (React)
+bash
+Copy
+Edit
 cd ../frontend
 npm install
-npm start
-Visit: http://localhost:3000
+npm run dev
 
-🌐 Live Deployment
-You can deploy:
-
-React frontend to Vercel or Netlify
-
-Spring Boot backend to Render, Railway, or Azure
+🌐 Visit: http://localhost:5173/
 
 👨‍💻 Author
 Keshav Gowda S P
 📧 keshavgowdasp@gmail.com
-🌐 Portfolio
+🌐 My Portfolio
 
-📝 License
-Licensed under the MIT License.
 
----
-
-✅ You can copy this directly into your `README.md` file. Let me know if you want to add screenshots, GitHub badges, or links to hosted versions.
