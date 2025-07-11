@@ -66,9 +66,14 @@ npm run dev
 
 🌐 Visit: http://localhost:5173/
 
-👨‍💻 Author
-Keshav Gowda S P
-📧 keshavgowdasp@gmail.com
-🌐 My Portfolio
+
+## 👨‍💻 Author
+
+**Keshav Gowda S P**  
+📧 [keshavgowdasp@gmail.com](mailto:keshavgowdasp@gmail.com)  
+🌐 [🌍 My Portfolio](https://keshavgowdasp.github.io/Portfolio/)
+
+
+
 
 
