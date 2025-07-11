@@ -1,4 +1,4 @@
-# 🛒 Full Stack E-commerce Application (Spring Boot + React)
+# 🛒 Full Stack E-commerce Application (Spring Boot API + React)
 
 This is a complete **E-commerce Web Application** built with **Spring Boot** for the backend and **React.js** for the frontend.  
 Users can browse and purchase products, while admins can manage inventory, product details, and images.
