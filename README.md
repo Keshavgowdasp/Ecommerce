@@ -6,7 +6,6 @@ Users can browse and purchase products, while admins can manage inventory, produ
 [![Java](https://img.shields.io/badge/Backend-SpringBoot-%23007396?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/Frontend-React-%2361DAFB?style=flat&logo=react)](https://reactjs.org)
 [![H2](https://img.shields.io/badge/Database-H2-%23007BFF?style=flat&logo=h2)](https://www.h2database.com)
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
 
