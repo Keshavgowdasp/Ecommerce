@@ -71,6 +71,21 @@ npm run dev
 🌐 [🌍 My Portfolio](https://keshavgowdasp.github.io/Portfolio/)
 
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+### 🔧Add Product
+![Add Product](./screenshots/Add Product.png)
+### 🔧Product search by Categories
+![Product search by Categories](./screenshots/Product search by Categories.png)
+### 🔧Cart
+![Cart](./screenshots/Cart.png)
+### 🔧Product search by Name
+![Product search by Name](./screenshots/Product search by name.png)
+
+
+
 
 
 
