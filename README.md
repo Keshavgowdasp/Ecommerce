@@ -1,11 +1,11 @@
-# 🛒 Full Stack E-commerce Application (Spring Boot API + React)
+# 🛒 Full Stack E-commerce Application (Spring Boot + React)
 
 This is a complete **E-commerce Web Application** built with **Spring Boot** for the backend and **React.js** for the frontend.  
 Users can browse and purchase products, while admins can manage inventory, product details, and images.
 
 [![Java](https://img.shields.io/badge/Backend-SpringBoot-%23007396?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/Frontend-React-%2361DAFB?style=flat&logo=react)](https://reactjs.org)
-[![MySQL](https://img.shields.io/badge/Database-MySQL-%2300f?style=flat&logo=mysql)](https://www.mysql.com)
+[![H2](https://img.shields.io/badge/Database-H2-%23007BFF?style=flat&logo=h2)](https://www.h2database.com)
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
@@ -16,7 +16,6 @@ Ecommerce/
 ├── backend/ # Spring Boot API (Java + MySQL)
 ├── frontend/ # React.js Client (Bootstrap + Axios)
 └── README.md
-
 
 ---
 
@@ -65,7 +64,6 @@ npm install
 npm run dev
 
 🌐 Visit: http://localhost:5173/
-
 
 ## 👨‍💻 Author
 
